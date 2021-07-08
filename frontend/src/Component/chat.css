@@ -1,7 +1,12 @@
 input {
-    font-size:larger;
+  font-size: larger;
 }
-button{
-    font-size: larger;
-    margin-left: 15px;
+button {
+  font-size: larger;
+  margin-left: 15px;
+}
+span {
+  padding: 5px 15px;
+  background-color: cadetblue;
+  margin: 5px;
 }

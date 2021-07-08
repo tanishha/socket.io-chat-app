@@ -1,5 +1,5 @@
 import "./App.css";
-
+import { ChatComponent } from "./Component/chat.component";
 function App() {
   return (
     <div className="App">
